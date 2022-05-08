@@ -9,16 +9,16 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'BENSON & CLOUD',
+  domain: 'https://enchanted-gosling-5ac.notion.site/BENSON-CLOUD-e8bacc57dd8d48869d5c223f25c0d959',
+  author: 'BENSON',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'BENSON & CLOUD LIFE',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
-  // github: 'transitive-bullshit',
+  github: 'benson-singapore',
   // linkedin: 'fisch2',
 
   // default notion icon and cover images for site-wide consistency (optional)
